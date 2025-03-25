@@ -1,4 +1,4 @@
-<H3>Name : Harssita lakshmanan</H3>
+<H3>Name : Harsshitha lakshmanan</H3>
 <H3>Register no. 212223230075</H3>
 <H3>Date : 25/03/2025</H3>
 <H3>Experiment No. 2 </H3>
